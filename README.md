@@ -5,3 +5,5 @@ MedAssist workflow includes three steps.
 First, Register and upload patient medical information. 
 Second, Complete online patient questionnaire. 
 Third, Expert System Collects and filters all the information and based on the result, creates a detailed report with prescription.
+
+My Role - Lead Business Analyst
